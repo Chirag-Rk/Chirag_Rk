@@ -1,6 +1,6 @@
 # Chirag_Rk
 
-# 💫 About Me:
+# About Me:
 I’m Chirag RK, a developer focused on building practical, end-to-end digital products rather than toy projects. I work across frontend, backend,Fullstack and system design,AIML,with hands-on experience in turning ideas into working applications.
 
 
